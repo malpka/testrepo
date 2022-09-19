@@ -12,6 +12,10 @@ Salami tri-tip jerky, rump filet mignon sausage kevin. Ground round cow pig baco
 
 [Link](CSharp)
 
+## Old blog page with history
+
+[a link](https://github.com/malpka/malpka.github.io)
+
 ## Fancy images 
 
 ![image4](https://64.media.tumblr.com/ffb6f48088f0bba9c974b4525105b640/aabb4af5b3dd1a93-ca/s500x750/48d65005982afdb8d39f22eb7b3a4d468e6ca434.gifv)
